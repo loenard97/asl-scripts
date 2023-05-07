@@ -1,2 +1,3 @@
 # asl-scripts
-ASL scripts for LiveSplit
+
+Various ASL scripts for [LiveSplit](https://github.com/LiveSplit/LiveSplit/).
